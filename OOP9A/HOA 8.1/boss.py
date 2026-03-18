@@ -2,7 +2,7 @@ from Swordsman import Swordsman
 from Archer import Archer
 from Magician import Magician
 
-class Boss(Swordsman, Archer, Magician): # multiple inheritance
+class Boss(Swordsman, Archer, Magician):
 	def _init_(self, username):
 		super() ._ init_(username)
 		self.setStr(10)
