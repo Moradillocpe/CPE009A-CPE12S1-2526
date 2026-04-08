@@ -28,6 +28,7 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
 <li>🎿 Hobbies other than coding : Playing online games, eating, reading and art stuff.</li>
 </ul>
 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 ## 🌐 Socials:
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just message me.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qemoradillo@tip.edu.ph) 
